@@ -1,4 +1,4 @@
-package com.designpattern.singelton;
+package com.designpattern.creational.singelton;
 
 import static org.junit.Assert.*;
 

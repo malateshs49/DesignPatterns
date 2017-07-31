@@ -1,4 +1,4 @@
-package com.designpattern.prototype;
+package com.designpattern.creational.prototype;
 
 import static org.junit.Assert.*;
 

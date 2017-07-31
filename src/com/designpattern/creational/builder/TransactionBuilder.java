@@ -1,4 +1,4 @@
-package com.designpattern.builder;
+package com.designpattern.creational.builder;
 
 public class TransactionBuilder {
 

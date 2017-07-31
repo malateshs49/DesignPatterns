@@ -1,4 +1,4 @@
-package com.designpattern.prototype;
+package com.designpattern.creational.prototype;
 
 public class Movie extends Item {
 

@@ -1,6 +1,6 @@
-package com.designpattern.builder;
+package com.designpattern.creational.builder;
 
-import com.designpattern.builder.TransactionBuilder.TransactionBuilderclass;
+import com.designpattern.creational.builder.TransactionBuilder.TransactionBuilderclass;
 
 import static org.junit.Assert.*;
 
