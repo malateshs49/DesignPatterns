@@ -2,9 +2,9 @@ package com.designpattern.creational.singelton;
 
 public class SingeltonClass {
 
-	private static SingeltonClass singelton = null;
+	private static volatile SingeltonClass singelton = null;
 
-	public static synchronized SingeltonClass getinstance() {
+	public static SingeltonClass getinstance() {
 		if (singelton == null) {
 			synchronized (SingeltonClass.class) {
 				if (singelton == null) {
