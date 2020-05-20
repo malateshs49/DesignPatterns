@@ -13,6 +13,7 @@
 	<modules>
 		<module>SingleResponsibility</module>
     <module>OCPPrinciple</module>
+    <module>LiskovSubstitution</module>
   </modules>
 	<dependencies>
 		<dependency>
