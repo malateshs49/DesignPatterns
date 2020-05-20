@@ -14,6 +14,7 @@
 		<module>SingleResponsibility</module>
     <module>OCPPrinciple</module>
     <module>LiskovSubstitution</module>
+    <module>InterfaceSeggregation</module>
   </modules>
 	<dependencies>
 		<dependency>
