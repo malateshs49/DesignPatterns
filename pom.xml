@@ -16,6 +16,7 @@
     <module>LiskovSubstitution</module>
     <module>InterfaceSeggregation</module>
     <module>DependencyInversion</module>
+    <module>BuilderPatterns</module>
   </modules>
 	<dependencies>
 		<dependency>
