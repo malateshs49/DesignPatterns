@@ -15,6 +15,7 @@
     <module>OCPPrinciple</module>
     <module>LiskovSubstitution</module>
     <module>InterfaceSeggregation</module>
+    <module>DependencyInversion</module>
   </modules>
 	<dependencies>
 		<dependency>
