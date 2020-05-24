@@ -9,9 +9,7 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 
-	<groupId>DesignPatterns</groupId>
 	<artifactId>OCPPrinciple</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
 
 	<name>OCPPrinciple</name>
 	<description>A simple OCPPrinciple.</description>

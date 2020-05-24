@@ -9,9 +9,7 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 
-	<groupId>DesignPatterns</groupId>
 	<artifactId>SingleResponsibility</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
 
 	<name>SingleResponsibility</name>
 	<!-- FIXME change it to the project's website -->
@@ -120,7 +118,6 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-plugin-plugin</artifactId>
-				<version>3.6.0</version>
 				<configuration>
 					<!-- <goalPrefix>maven-archetype-plugin</goalPrefix> -->
 					<skipErrorNoDescriptorsFound>true</skipErrorNoDescriptorsFound>

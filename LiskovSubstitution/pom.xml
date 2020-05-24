@@ -7,9 +7,7 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
 
-  <groupId>DesignPatterns</groupId>
   <artifactId>LiskovSubstitution</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
 
   <name>LiskovSubstitution</name>
   <description>A simple LiskovSubstitution.</description>

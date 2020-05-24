@@ -9,9 +9,7 @@
 		<artifactId>DesignPatterns</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<groupId>DesignPatterns</groupId>
 	<artifactId>DependencyInversion</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
 	<name>DependencyInversion</name>
 	<url>http://maven.apache.org</url>
 	<properties>

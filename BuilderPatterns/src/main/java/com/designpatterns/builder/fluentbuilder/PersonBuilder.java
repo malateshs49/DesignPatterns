@@ -13,6 +13,7 @@ public class PersonBuilder<SELF extends PersonBuilder<SELF>> {
 		return getSelf();
 	}
 
+	@SuppressWarnings("unchecked")
 	public SELF getSelf() {
 		return (SELF) this;
 	}

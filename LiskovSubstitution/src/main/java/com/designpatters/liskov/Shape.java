@@ -20,7 +20,7 @@ public class Shape {
 	public static void UseIt(Rectangle r) {
 		int length = r.getLength();
 		r.setBreadth(10);
-
+		r.setLength(length);
 	}
 
 }

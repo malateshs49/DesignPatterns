@@ -12,6 +12,7 @@ public class Persistence {
 			PrintStream stream = new PrintStream(newFile);
 			stream.println(journal.toString());
 			System.out.println("File Created Successfully");
+			stream.close();
 		} catch (Exception e) {
 			System.out.println("Failed to handle file error");
 		}
